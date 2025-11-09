@@ -158,3 +158,5 @@ Doing so would be illegal, unethical, and against blockchain principles.
 
 The author assumes no responsibility for misuse of this code.
 It is meant purely to study Bitcoin and HD wallet internals.
+
+BTC donation address: bc1q4nyq7kr4nwq6zw35pg0zl0k9jmdmtmadlfvqhr
