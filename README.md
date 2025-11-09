@@ -1,0 +1,2 @@
+# BIP-39-Seed-Phrase-Enumerator-HD-Wallet-Address-Generator
+This Python script systematically generates deterministic BIP-39 seed phrases — even in brute-force mode where all possible word combinations can be explored (starting from as few as 2 words). For each valid seed, it derives HD wallet addresses for multiple blockchains (Bitcoin, Ethereum, Solana, etc.) and stores results in an SQLite database.
